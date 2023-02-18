@@ -3,7 +3,6 @@
 ---
 Présentation : Site **ADA SHopping**
 
-| -----------|----------------------------------------|
 |   Outils   |          Description                   |
 | -----------|----------------------------------------|
 | HTML       |  Utilisation de Bootsrap               |
@@ -11,7 +10,6 @@ Présentation : Site **ADA SHopping**
 |            | INJECTION DOM ET LOCALSTRORAGE         |
 | CSS        | MODIFICATION DU CODE CSS ET RESPONSIVE |
 | BOOSTSTRAP | Utilisation du CDN                     |
-| -----------|----------------------------------------|
 
 ## TRAVAIL A FAIRE
 - La page index.html doit être modifier 
@@ -44,4 +42,4 @@ appendData est une fonction qui permet d'inserer dans le **DOM** les cadres de c
 
 ## MERCI ATOS MERCI A VOUS ENSEMBLE NOUS IRONS LOIN
 
-![alt text]('assets/img/carousel-1.JPG')
+![ADACI Image]('/assets/img/carousel-1.JPG')
