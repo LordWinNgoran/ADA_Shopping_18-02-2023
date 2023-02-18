@@ -42,4 +42,4 @@ appendData est une fonction qui permet d'inserer dans le **DOM** les cadres de c
 
 ## MERCI ATOS MERCI A VOUS ENSEMBLE NOUS IRONS LOIN
 
-![ADACI Image]('/assets/img/carousel-1.JPG')
+<div style="text-align:center"><img src="./assets/img/carousel-1.JPG" /></div>.
