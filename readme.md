@@ -8,7 +8,7 @@ Présentation : Site **ADA SHopping**
 | -----------|----------------------------------------|
 | HTML       |  Utilisation de Bootsrap               |
 | JS         | APPEL API SUR FAKESTORE                |
-             | INJECTION DOM ET LOCALSTRORAGE         |
+|            | INJECTION DOM ET LOCALSTRORAGE         |
 | CSS        | MODIFICATION DU CODE CSS ET RESPONSIVE |
 | BOOSTSTRAP | Utilisation du CDN                     |
 | -----------|----------------------------------------|
@@ -44,4 +44,4 @@ appendData est une fonction qui permet d'inserer dans le **DOM** les cadres de c
 
 ## MERCI ATOS MERCI A VOUS ENSEMBLE NOUS IRONS LOIN
 
-![alt text]('./assets/img/carousel-1.JPG')
+![alt text]('assets/img/carousel-1.JPG')
